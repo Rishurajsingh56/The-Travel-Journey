@@ -34,7 +34,7 @@ const Hero2 = () => {
                 type="datetime-local"
               />
             </p>
-
+<a href="https://beta.publishers.adsterra.com/referral/vLe5v1SQh2" rel="nofollow"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/80%20x%2030%20px.png" /></a>
             <p className="font-medium ml-5 pt-4">
               Choose Gender :{" "}
               <input
