@@ -62,7 +62,7 @@ const Hero2 = () => {
               />{" "}
               Other
             </p>
-
+https://www.profitableratecpmnetwork.com/ape8shrwy?key=ef4514de53beca0391a84f93170f7433
             <div className="flex items-center justify-center mt-8 gap-9">
               <img
                 className="w-40 h-16"
